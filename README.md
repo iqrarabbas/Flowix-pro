@@ -78,18 +78,8 @@ OPENAI_API_KEY=your_api_key_here
 
 ### 4. Run the application
 ```bash
-python flowixpro_app.py
+python app.py
 ```
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request to help improve the Clarity Engine.
-
-## 👤 Author
-**Iqrar Abbas**  
-*AI Design Architect*  
-[Your LinkedIn/Portfolio Link]
-
----
-*Developed with a focus on humanizing AI for better freelancer-client relationships.*
