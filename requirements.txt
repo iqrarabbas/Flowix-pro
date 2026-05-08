@@ -1,6 +1,6 @@
-gradio
-langchain
-langchain-openai
 pydantic
 python-dotenv
-openai
+fastapi
+uvicorn
+langchain
+langchain-openai
